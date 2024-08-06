@@ -1,7 +1,6 @@
 # magic_8_ball_flutter
 
-A new Flutter project.
-
+Based on Angela Yu's Udemy course challenge #londonappbrewery.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
